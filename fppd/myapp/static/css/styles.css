@@ -1,0 +1,10 @@
+.m_head
+{
+    text-align: center;
+}
+
+acc,table.acc.th,table.acc.td,table.acc.tr
+{
+    border: 2px solid;
+    text-align: center;
+}
